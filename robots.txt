@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Sitemap: https:/extensions.xonlyfadi.site/sitemap.xml
+Host: https://extensions.xonlyfadi.site
