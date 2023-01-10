@@ -1,2 +1,2 @@
-# paperback-extensions-website [WIP]
+# Paperback Extensions [WIP]
 Unofficial Paperback website for extensions
