@@ -21,3 +21,6 @@ npm-debug.log
 
 # Ignore theme_eject folder
 theme_eject/
+
+#yarn
+yarn.lock
