@@ -25,6 +25,9 @@ module.exports = {
 		search: false,
 		nav: [],
 		sidebar: {},
+		yuu: {
+			defaultDarkTheme: true,
+		},
 	},
 
 	/**
