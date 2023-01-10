@@ -14,7 +14,7 @@
 	"homepage": "https://github.com/xOnlyFadi/paperback-extensions-website#readme",
 	"scripts": {
 		"build": "npm run lint && vuepress build src",
-		"lint": "eslint --fix 'src/.vuepress/**/*.{js,vue}' --no-ignore",
+		"lint": "eslint --fix \"src/.vuepress/**/*.{js,vue}\" --no-ignore",
 		"serve": "vuepress dev src"
 	},
 	"devDependencies": {
